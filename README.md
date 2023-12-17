@@ -1,1 +1,2 @@
-# HAITIAN-BLACK
+mkdir bruteforce
+cd bruteforce
